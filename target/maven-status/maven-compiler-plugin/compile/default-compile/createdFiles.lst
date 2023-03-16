@@ -1,0 +1,13 @@
+com/example/practica/repository/MovimientoBancarioRepository.class
+com/example/practica/PracticaApplication.class
+com/example/practica/repository/CuentaRepository.class
+com/example/practica/repository/ClienteRepository.class
+com/example/practica/controller/CuentaController.class
+com/example/practica/model/Cliente.class
+com/example/practica/repository/PersonaRepository.class
+com/example/practica/model/MovimientoBancario.class
+com/example/practica/controller/MovimientoBancarioController.class
+com/example/practica/model/Persona.class
+com/example/practica/model/Cuenta.class
+com/example/practica/controller/ClienteController.class
+com/example/practica/controller/PersonaController.class

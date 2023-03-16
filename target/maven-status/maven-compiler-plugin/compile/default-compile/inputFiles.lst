@@ -1,0 +1,13 @@
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/PracticaApplication.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/controller/CuentaController.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/model/Cuenta.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/repository/ClienteRepository.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/controller/MovimientoBancarioController.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/model/Cliente.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/repository/CuentaRepository.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/repository/PersonaRepository.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/model/MovimientoBancario.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/repository/MovimientoBancarioRepository.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/controller/ClienteController.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/controller/PersonaController.java
+/Users/jose.zafra/IdeaProjects/PRACTICA/src/main/java/com/example/practica/model/Persona.java
